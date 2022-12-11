@@ -1,3 +1,5 @@
+#bill splitting with lucky guy option
+
 import random
 print("Enter the number of friends joining (including you):")
 number = int(input())
